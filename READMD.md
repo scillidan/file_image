@@ -1,0 +1,24 @@
+## Log
+
+```
+just add landscape "有限.jpg" "ゲン助" "2020.12.18" "有限" "(5%, 0%)" 100% "(100%, 100%)"
+just add landscape "西日に照らされて.jpg" "ゲン助" "2020.8.23" "西日に照らされて [被西边的太阳照亮了]" "(5%, 0%)" 100% "(100%, 100%)"
+just add portrait "シェルター.jpg" "かにあじ" "2021.11.30" "シェルター [Shelter][避难所]" "(0%, 6%)" 100% "(100%, 100%)"
+just add landscape "静かに灯る.jpg" "ゲン助" "2020.7.5" "静かに灯る [静静地点亮]" "(5%, 0%)" 100% "(100%, 100%)"
+just add landscape "古池や蛙飛び込む水の音.jpg" "lack" "2009.5.22" "古池や蛙飛び込む水の音 [古池塘和青蛙跳入水中的声音]" "(30%, 0%)" 100% "(100%, 100%)"
+just add portrait "476954.jpg" "cii0000" "(2009.6.29)" "(ID 476954)" "(0%, 12%)" 100% "(100%, 100%)"
+just add landscape "Wadjet.jpg" "Felix Riaño" "2025.11" "Wadjet" "(15%, 0%)" 100% "(100%, 100%)"
+just add landscape "Truck stop 117.jpg" "sparkle7479" "2024.8.15" "Truck stop 117" "(0%, 5%)" 100% "(100%, 100%)"
+just add landscape "Bunker.jpg" "ArseniXC" "2012.12.12" "Bunker" "(6%, 0%)" 100% "(100%, 100%)"
+just add portrait "風船の旅立ち.jpg" "しまざきジョゼ" "2016.1.2" "風船の旅立ち [气球的旅行]" "(0%, 6%)" 100% "(100%, 100%)"
+just add landscape "2767467.jpg" "kukka" "(2017.6.25)" "(ID 2767467)" "(5%, 0%)" 100% "(100%, 100%)"
+just add landscape "Wild Night Club.jpg" "ArseniXC" "2016.10.19" "Wild Night Club" "(4%, 0%)" 100% "(100%, 100%)"
+just add landscape "長門さん.jpg" "nanabuluku" "2017.10.1" "長門さん [长门有希]" "(5%, 0%)" 100% "(100%, 100%)"
+just add landscape "egarots yoT.png" "かぐまにくす(kgmnx)" "2020.5.29" "egarots yoT" "(6%, 0%)" 100% "(100%, 100%)"
+just add landscape "収穫.png" "馬場之助(わんぱく)" "2022.10.18" "収穫 [收获]" "(0%, 3%)" 100% "(100%, 100%)"
+just add landscape "古滇国祭祀.png" "岛的鲸" "2023.2.20" "古滇国祭祀" "(0%, 0%)" 100% "(100%, 100%)"
+just add landscape "Kitsune The Journey of Adashino (Artwork).jpg" "RIAS" "2023.8.13" "Kitsune: The Journey of Adashino (Artwork)" "(0%, 4%)" 100% "(100%, 100%)"
+just add portrait "6750674.jpg" "嶋田清香" "2023.10.6" "(ID 6750674)" "(0%, 4%)" 100% "(100%, 100%)"
+just add landscape "あなたはだあれ？.jpg" "ながべ" "2023.7.20" "あなたはだあれ？ [你是谁]" "(3%, 4%)" 95% "(100%, 100%)"
+just add landscape "舊屋企.jpg" "絳色有餘" "2023.10.22" "舊屋企" "(7%, 0%)" 100% "(100%, 100%)"
+```
