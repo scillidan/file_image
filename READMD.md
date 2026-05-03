@@ -43,4 +43,8 @@ just add portrait "closeup-photo-of-two-gray-pigeons-on-gray-concrete-surface.jp
 just add portrait "green-leafed-plant.jpg" "Ivan Verrengia" "2019.6.13" "(ID green-leafed-plant)" "(0%, 0%)" 100% "(100%, 100%)"
 just add landscape "gray-bird-over-water-at-daytime.jpg" "Reinhart Julian" "2018.2.8" "Bird" "(0%, 0%)" 100% "(100%, 100%)"
 just add portrait "Baronija Vranska.jpg" "Jon Pintar" "2020.6.2" "Baronija Vranska" "(0%, 0%)" 100% "(100%, 100%)"
+just add portrait "『戦国大戦TCG双』関羽.png" "創-taro" "2019.6.28" "『戦国大戦TCG双』関羽" "(0%, 3%)" 100% "(100%, 100%)"
+just add landscape "最終回の阿良々木くん.jpg" "ラッツ" "2010.6.26" "最終回の阿良々木くん" "(0%, 16%)" 100% "(100%, 100%)"
+just add landscape "2793282368.webp" "Promptsref" "" "(ID 2793282368)" "(3%, 25%)" 100% "(106%, 100%)"
+just add landscape "4041108613.webp" "Promptsref" "" "(ID 4041108613)" "(0%, 23%)" 100% "(100%, 100%)"
 ```
